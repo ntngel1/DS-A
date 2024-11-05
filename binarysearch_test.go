@@ -1,4 +1,4 @@
-package dsa
+package main
 
 import (
 	"cmp"
